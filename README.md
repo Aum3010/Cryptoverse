@@ -1,3 +1,3 @@
 # Cryptoverse Project
 
-An attempt to understand how overall working of apps
+An attempt to understand the overall working of apps
